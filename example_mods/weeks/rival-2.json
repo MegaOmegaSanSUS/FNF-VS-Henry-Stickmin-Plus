@@ -1,0 +1,41 @@
+{
+	"storyName": "Valient hero",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"bold-action",
+			"charles-mad",
+			[
+				226,
+				53,
+				55
+			]
+		],
+		[
+			"heavily-armed",
+			"charles",
+			[
+				226,
+				53,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"charliey_sike",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Rival 2 (Charles)"
+}

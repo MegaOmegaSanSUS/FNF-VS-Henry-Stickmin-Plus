@@ -1,0 +1,12 @@
+[178[ [179[ [223[ [216[ |EllieMem| *50* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:whitehank: !black! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      The dialogue is unfinished, it will be changed in next updates!
+:charles: !default! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Wow, that was pretty good!
+:bf: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Beep baap boop bup.
+:ellie: !default! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      What are we doing here, guys?
+:charles: !default! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~     Oh, hi Ellie.
+:bf: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Bop ski!
+:ellie: !default! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~    Rap battle?
+:ellie: !smile! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      I think, yes!
+
+
+

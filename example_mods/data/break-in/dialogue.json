@@ -1,0 +1,268 @@
+{
+	"dialogue": [
+		{
+			"expression": "weird",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.075,
+			"sound": "text"
+		},
+		{
+			"expression": "weird",
+			"text": "hmmm",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.06,
+			"sound": ""
+		},
+		{
+			"expression": "weird",
+			"text": "* Choose between *",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "weird",
+			"text": "* Tunnel, explosion, lazer drill... *",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "surprised",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "weird",
+			"text": "* Wreckin Ball, teleporter or... *",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "bruh",
+			"text": "* Funkin? *",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.11,
+			"sound": ""
+		},
+		{
+			"expression": "default",
+			"text": "beep!",
+			"boxState": "angry",
+			"portrait": "bf-modding-plus",
+			"speed": 0.05,
+			"sound": "text"
+		},
+		{
+			"expression": "crying",
+			"text": "WOAH!",
+			"boxState": "angry",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "bruh",
+			"text": "Beep boop bska boop",
+			"boxState": "normal",
+			"portrait": "bf-modding-plus",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "vomit",
+			"text": "Man excuse me, you took me by surprise.",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "bruh",
+			"text": "Beep.",
+			"boxState": "normal",
+			"portrait": "bf-modding-plus",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "weird",
+			"text": "?",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "default",
+			"text": "Hello I'm girlfriend",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "weird",
+			"text": "And he is Boyfriend",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Bep.",
+			"boxState": "normal",
+			"portrait": "bf-modding-plus",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "surprised",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "fear",
+			"text": "(Why he talks in that strange language?)",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "laugh",
+			"text": "Because he likes to talk on beeps and boops!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "fear",
+			"text": "a",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "worried",
+			"text": "wait a minut-",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Beep ba boooop.",
+			"boxState": "normal",
+			"portrait": "bf-modding-plus",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "Ska be bop, a boooooop.",
+			"boxState": "normal",
+			"portrait": "bf-modding-plus",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "happy",
+			"text": "He comes here for a rap battle.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "sweating",
+			"text": "Could you accept?",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "worried",
+			"text": "* processing... *",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "weird",
+			"text": "Wait, what?",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "fear",
+			"text": "Oh.",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "fear",
+			"text": "If I win, will they stop interrupting me?",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "weird",
+			"text": "Yeah.",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "smile",
+			"text": ".",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "laugh",
+			"text": "Prepare to be blue balled ",
+			"boxState": "normal",
+			"portrait": "henry",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

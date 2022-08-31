@@ -1,0 +1,27 @@
+[178[ [179[ [223[ [216[ |CharlesLol| *50* =1= #classic#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:charles: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      * hum *
+:charles: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      I'm gonna fight 'em all~
+:charles: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      A seven nation army couldn't hold me back~
+:charles: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      They're gonna rip it off~
+:charles: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      And I'm talking to myself at ni-
+:bf: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Beep baap boop.
+:charles: !bruh! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ...
+:charles: !weird! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      What do you want buddy.
+:bf: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Ske doo bap bum bum bum.
+:charles: !bruh! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Oh...
+:charles: !bruh! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Man, I'm not in the mood for these things.
+:bf: !smile! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ...
+:bf: !crying! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Beeeeeeeeep.
+:charles: !crying! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      !
+:charles: !smile! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Uhmm...
+:charles: !sweating! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Fine fine.
+:charles: !worried! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      But don't think that I'll make it so easy for you
+:bf: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Baaaap!
+:bf: !happy! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Bee ske boop bep.
+:charles: !default! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Microphone?
+:charles: !default! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Nah.
+:charles: !angry! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      I once used it on a strange cat but...
+:charles: !angry! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |true| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      ...with my headphones I'm fine!
+:bf: !sweating! [Funkin Segoe UI[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #classic# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      A.
+
+

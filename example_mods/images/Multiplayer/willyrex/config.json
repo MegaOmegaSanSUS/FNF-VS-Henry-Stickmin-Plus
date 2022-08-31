@@ -1,0 +1,165 @@
+{
+	"clone": "", "": "Copies the offsets of a character and a few interactions, disable it by removing this line or leaving it blank",
+	"no_antialiasing": false, "": "If set to true, forces antialiasing to be disabled, useful for Pixel characters",
+	"sing_duration": 4, "": "Duration of character sing animation's mult, Dad clones use 6.1 while everyone else uses 4",
+	"dance_idle": false, "": "Makes the character use danceRight/danceLeft animations instead of Idle, useful for Skid & Pump/GF clones",
+
+	"scale": 1, "": "Sprite scale on common stages, online lobby and Character Select screen, Senpai uses 6 while BF-Pixel/Spirit uses 6.6, everyone else uses 1",
+	"scale_pixel": 0.91, "": "Sprite scale on Pixel stages, Senpai/Spirit/BF-Pixel uses 6, everyone else uses 0.91",
+	"pixel_offset_scale": 0.91, "": "Fixes the animation offsets being a bit broken on Pixel stages for non-pixel characters, usually just set this to the same value as scale_pixel. This is dumb",
+	"online_offset_scale": 0.7, "": "Fixes the singing animations being a bit broken on Online Mode Lobby, Spirit/Senpai/BF-Pixel uses 1, everyone else uses 0.7. This is also dumb",
+
+	"voices": "custom", "": "Voices to be used on Lobby singing, set this to 'custom' if you want to use custom voice files, the files should be named 'sing_left.ogg', 'sing_up.ogg', 'sing_down.ogg' and 'sing_right.ogg', and should be located in your character's folder",
+	"alt_anims": true, "": "Enables alt animations like those from Parents-Christmas",
+	"flip_x": true, "": "Flips X axis from the sprite, useful for Boyfriend/Pico clones",
+
+	"animations":
+	[
+		{
+			"anim": "idle",
+			"name": "Tankman Idle Dance instance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUP",
+			"name": "Tankman UP note instance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFT",
+			"name": "Tankman Note Left instance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "Tankman Right Note instance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWN",
+			"name": "Tankman DOWN note instance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUPmiss",
+			"name": "Tankman UP note instance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFTmiss",
+			"name": "Tankman Note Left instance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"name": "Tankman Right Note instance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWNmiss",
+			"name": "Tankman DOWN note instance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUP-alt",
+			"name": "TANKMAN UGH instance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWN-alt",
+			"name": "PRETTY GOOD tankman instance",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+                }
+	], "": "The idle/sing/miss animations are added automatically with the same values as Boyfriend's for preventing a dumb crash, you just have to add animations to this array if you want to edit something or add Hey/Scared animations to it",
+	"hey_anim": "", "": "Which animation should it use for the Bopeebo 'Hey!'",
+	"scared_anim": "", "": "Which animation should it use for Spooky Month stage scare",
+
+	"animations_offsets":
+	[
+		{
+			"anim": "idle",
+			"player1": [0, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singUP",
+			"player1": [24, 56],
+			"player2": [24, 56]
+		},
+		{
+			"anim": "singRIGHT",
+			"player1": [-1, -7],
+			"player2": [-1, -7]
+		},
+		{
+			"anim": "singLEFT",
+			"player1": [100, -14],
+			"player2": [100, -14]
+		},
+		{
+			"anim": "singDOWN",
+			"player1": [98, -90],
+			"player2": [98, -90]
+		},
+		{
+			"anim": "singUPmiss",
+			"player1": [24, 56],
+			"player2": [24, 56]
+		},
+		{
+			"anim": "singRIGHTmiss",
+			"player1": [-1, -7],
+			"player2": [-1, -7]
+		},
+		{
+			"anim": "singLEFTmiss",
+			"player1": [100, -14],
+			"player2": [100, -14]
+		},
+		{
+			"anim": "singDOWNmiss",
+			"player1": [98, -90],
+			"player2": [98, -90]
+		},
+		{
+			"anim": "PRETTY GOOD tankman instance",
+			"player1": [98, -90],
+			"player2": [98, -90]
+		},
+		{
+			"anim": "TANKMAN UGH instance",
+			"player1": [24, 56],
+			"player2": [24, 56]
+		}
+	],
+
+	"common_stage_offset": [50, 200, 50, 200], "": "Your character's offset ingame on common stages as Player 1 and 2",
+	"pixel_stage_offset": [10, 200, 0, 200], "": "Your character's offset ingame on Pixel stages as Player 1 and 2",
+	"local_multiplayer_offset": [10, -50], "": "Your character's offset on the Local Multiplayer/Singleplayer Character Select screen",
+	"online_offset": [0, -25], "": "Your character's offset on Online Mode lobby",
+	"playername_relative": 50, "": "Relative (Y) position from the Player Name to their character on Online Mode Lobby",
+
+	"": "Sometimes i hate my own code, good luck messing with this! I will probably convert the Animation Debug into a Character Editor someday, idk"
+}

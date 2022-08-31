@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Dad idle dance",
+	"idle_anim": "Dad idle dance",
+	"position": [
+		142,
+		310
+	],
+	"scale": 0.8,
+	"image": "henry_sike",
+	"flipX": false
+}

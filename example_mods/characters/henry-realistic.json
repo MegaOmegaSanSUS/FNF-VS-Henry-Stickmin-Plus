@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-17,
+				10
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-62,
+				-33
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-18,
+				50
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				26
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/henry-realistic",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "henry-realistic",
+	"flip_x": false,
+	"healthbar_colors": [
+		184,
+		184,
+		184
+	],
+	"camera_position": [
+		-60,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

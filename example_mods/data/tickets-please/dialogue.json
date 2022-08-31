@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "text",
+			"speed": 0.065,
+			"portrait": "henry",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "Fine,you may of won..."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "henry",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "But can I just rob that bank please! We have been out here for so long."
+		},
+		{
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "bf-modding-plus",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bep skdo beeeeeeep."
+		},
+		{
+			"sound": "",
+			"speed": 0.085,
+			"portrait": "henry",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "Fine,we can start...but JUST one more round..."
+		},
+		{
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Ok,the musics ready."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-modding-plus",
+			"boxState": "angry",
+			"expression": "default",
+			"text": "Beep skdo!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "henry",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "Time to be destroyed AND blue-balled!"
+		}
+	]
+}

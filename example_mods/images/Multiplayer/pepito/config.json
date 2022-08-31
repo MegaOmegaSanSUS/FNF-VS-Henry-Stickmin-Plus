@@ -1,0 +1,138 @@
+{
+	"clone": "parents-christmas",
+	"sing_duration": 4,
+        "dance_idle": false,
+	"no_antialiasing": false,
+	"scale": 1,
+	"scale_pixel": 0.91,
+	"pixel_offset_scale": 0.91,
+	"online_offset_scale": 0.7,
+        "alt_anims": true,
+
+	"voices": "dad",
+	"flip_x": false,
+
+	"animations":
+	[
+                 
+		{	"anim": "idle",
+			"name": "Parent Christmas Idle",
+			"fps": 24,
+			"loop": true,
+			"indices": []
+		},
+		{
+			"anim": "singUP",
+			"name": "Parent Up Note Dad",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFT",
+			"name": "Parent Left Note Dad",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHT",
+			"name": "Parent Right Note Dad",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWN",
+			"name": "Parent Down Note Dad",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singUP-alt",
+			"name": "Parent Up Note Mom",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singLEFT-alt",
+			"name": "Parent Left Note Mom",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singRIGHT-alt",
+			"name": "Parent Right Note Mom",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+		},
+		{
+			"anim": "singDOWN-alt",
+			"name": "Parent Down Note Mom",
+			"fps": 24,
+			"loop": false,
+			"indices": []
+                }
+
+	],
+	"hey_anim": "",
+	"scared_anim": "",
+
+        "animations_offsets":
+	[
+		{
+			"anim": "idle",
+			"player1": [-300, 0],
+			"player2": [0, 0]
+		},
+		{
+			"anim": "singUP",
+			"player1": [-343, 23],
+			"player2": [-47, 27]
+		},
+		{
+			"anim": "singRIGHT",
+			"player1": [-362, 18],
+			"player2": [-4, -20]
+		},
+		{
+			"anim": "singLEFT",
+			"player1": [-226, -21],
+			"player2": [-24, 18]
+		},
+		{
+			"anim": "singUP-alt",
+			"player1": [-343, 26],
+			"player2": [-46, 30]
+		},
+		{
+			"anim": "singLEFT-alt",
+			"player1": [-222, -20],
+			"player2": [-28, 19]
+		},
+		{
+			"anim": "singRIGHT-alt",
+			"player1": [-363, 17],
+			"player2": [-2, -18]
+		},
+		{
+			"anim": "singDOWN-alt",
+			"player1": [-295, -26],
+			"player2": [-39, -24]
+		},
+		{
+			"anim": "singDOWN",
+			"player1": [-295, -26],
+			"player2": [-39, -24]
+                }
+	],
+	"common_stage_offset": [0, 0, 0, 0],
+	"pixel_stage_offset": [0, 0, 0, 0],
+	"local_multiplayer_offset": [-250, -290],
+	"online_offset": [-140, -150],
+	"playername_relative": 170
+}

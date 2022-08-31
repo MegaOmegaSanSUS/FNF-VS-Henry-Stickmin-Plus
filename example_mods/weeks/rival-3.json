@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"break-in",
+			"henry",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"midnight",
+			"henry-midnight",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"tickets-please",
+			"henry-angry",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"henry",
+		"bf",
+		"gf"
+	],
+	"storyName": "A FREE MAN",
+	"weekName": "Rival One (Henry)",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

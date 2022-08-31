@@ -1,0 +1,196 @@
+{
+	"dialogue": [
+		{
+			"sound": "text",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "* hum *"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I'm gonna fight em' all~"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "A seven nation army couldn't hold me back~"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "They're gonna rip it off~"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "And I'm talking to myself at ni-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-modding-plus",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Beep baap boop."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "weird",
+			"text": "What do you want buddy."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-modding-plus",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Ske doo bap bum bum bum./"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "Oh..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "Man, I'm not in the mood for these things."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-modding-plus",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-modding-plus",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "Beeeeeeeeep."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "Uhmm..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "sweating",
+			"text": "Fine fine."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "But don't think that I'll make it so easy for you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-modding-plus",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Baaaap!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-modding-plus",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bee ske boop bep."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Microphone?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nah."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "I once used it on a strange cat but..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "...With my headphones I'm fine!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-modding-plus",
+			"boxState": "normal",
+			"expression": "sweating",
+			"text": "A."
+		}
+	]
+}

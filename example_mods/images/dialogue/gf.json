@@ -1,0 +1,206 @@
+{
+	"position": [
+		0,
+		50
+	],
+	"dialogue_pos": "center",
+	"scale": 1.3,
+	"image": "gf",
+	"animations": [
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "default",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "default",
+			"idle_name": "default"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "surprised",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "surprised",
+			"idle_name": "surprised"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "angry",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "angry",
+			"idle_name": "angry"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "weird",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "weird",
+			"idle_name": "weird"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "why",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "why",
+			"idle_name": "why"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "bruh",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "bruh",
+			"idle_name": "bruh"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "worried",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "worried",
+			"idle_name": "worried"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "happy",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "happy",
+			"idle_name": "happy"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "sweating",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "sweating",
+			"idle_name": "sweating"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "crying",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "crying",
+			"idle_name": "crying"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "smile",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "smile",
+			"idle_name": "smile"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "vomit",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "vomit",
+			"idle_name": "vomit"
+		},
+		{
+			"loop_offsets": [
+				50,
+				-100
+			],
+			"anim": "laugh",
+			"idle_offsets": [
+				50,
+				-100
+			],
+			"loop_name": "laugh",
+			"idle_name": "laugh"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "fear",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "fear",
+			"idle_name": "fear"
+		},
+		{
+			"loop_offsets": [
+				60,
+				-100
+			],
+			"anim": "relaxed",
+			"idle_offsets": [
+				60,
+				-100
+			],
+			"loop_name": "relaxed",
+			"idle_name": "relaxed"
+		}
+	]
+}

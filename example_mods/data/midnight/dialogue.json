@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "text",
+			"speed": 0.05,
+			"portrait": "henry",
+			"boxState": "normal",
+			"expression": "fear",
+			"text": "Uff..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "henry",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "Man I can't believe the battle lasted so long for it to be midnight."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-modding-plus",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "bap bop bip skap."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "henry",
+			"boxState": "normal",
+			"expression": "fear",
+			"text": "You don't have other people to rap with or what."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "weird",
+			"text": "In fact we already rap with my parents, spooky boys, a nun, gods..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "henry",
+			"boxState": "normal",
+			"expression": "weird",
+			"text": "(Gf : blah blah blah blah blah blah blah blah blah blah blah blah )"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "henry",
+			"boxState": "normal",
+			"expression": "weird",
+			"text": "( Gf : blah blah blah blah blah blah blah blah blah blah blah blah )"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "henry",
+			"boxState": "normal",
+			"expression": "weird",
+			"text": "( Gf : blah blah blah blah blah blah blah blah blah blah blah blah )"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "weird",
+			"text": ".......furrys, etc"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "So, we move on to the next song?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "henry",
+			"boxState": "normal",
+			"expression": "relaxed",
+			"text": "ZZZZZZZZZZZZ..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "HENRY?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "henry",
+			"boxState": "normal",
+			"expression": "crying",
+			"text": "AOIJSDIJMKFJMKLDSFJMLSKDMFLSL-NASAD"
+		}
+	]
+}

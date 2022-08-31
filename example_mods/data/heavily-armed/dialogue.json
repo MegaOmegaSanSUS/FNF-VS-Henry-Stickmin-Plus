@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "text",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "laugh",
+			"text": "Woah man, you really have a talent at this"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-modding-plus",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Beep baap boop bup."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Another round?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf-modding-plus",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Bap bup ska dop bum."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well I still have time"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "charles",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Get ready!"
+		}
+	]
+}
